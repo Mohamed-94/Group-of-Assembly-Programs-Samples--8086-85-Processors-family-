@@ -6,10 +6,14 @@
 </h4>
 
 <div >
-  <a href="#About">about</a> •
+  <a href="#About">About</a> •
+  <br>
   <a href="#how-to-use">How To Use</a> •
+  <br>
   <a href="#related">Related</a> •
+  <br>
   <a href="#license">License</a>
+  <br>
 </>
 
 <div >
