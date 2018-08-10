@@ -5,19 +5,19 @@
   
 </h4>
 
-<p align="center">
-  <a href="#about">about</a> •
+<div >
+  <a href="#About">about</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
-</p>
+</>
 
-<div align="center">
+<div >
 
   
 </div>
 
-## about
+## About
 
 this is a larg group of assembly programs compiled and ready to use with both Code and Exe files ..
 
@@ -38,10 +38,10 @@ To clone and edit this application, you'll need [Git](https://git-scm.com) and [
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Mohamed-94/Alpha-Mine-ChatBot
+$ git clone https://github.com/Mohamed-94/Group-of-Assembly-Programs-Samples--8086-85-Processors-family-
 
 # Go into the repository
-$ cd Alpha-Mine-ChatBot
+$ cd Group-of-Assembly-Programs-Samples--8086-85-Processors-family-
 
 ```
 
