@@ -35,7 +35,7 @@ all these programs are coded and compiled using [GUI Turbo Assembler (TASM)](htt
 
 ## How To Use
 
-To clone and edit this application, you'll need [Git](https://git-scm.com) and [GUI Turbo Assembler (TASM)](https://sourceforge.net/projects/guitasm8086/).
+To clone and edit these programs, you'll need [Git](https://git-scm.com) and [GUI Turbo Assembler (TASM)](https://sourceforge.net/projects/guitasm8086/).
 
 
 -From your command line:
