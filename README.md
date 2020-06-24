@@ -54,7 +54,7 @@ $ cd Group-of-Assembly-Programs-Samples--8086-85-Processors-family-
 *Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
 ## Credit: 
-a lot of these programms has been written with the help of an old Arabian book, you can  find it [here](https://www.kutub.info/library/book/2549)
+a lot of these programms had been written with the help of an old Arabian book, you can  find it [here](https://www.kutub.info/library/book/2549)
 
 ## Related
 
